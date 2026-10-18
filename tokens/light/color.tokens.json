@@ -16,6 +16,12 @@
       "$type": "color",
       "$value": "{color.rose}"
     },
+    "text": {
+      "primary": {
+        "$type": "color",
+        "$value": "#121212"
+      }
+    },
     "background": {
       "primary": {
         "$type": "color",

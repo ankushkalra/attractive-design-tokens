@@ -24,6 +24,7 @@
   --color-rose: #e11d48;
   --color-primary: #7c3aed;
   --color-secondary: #e11d48;
+  --color-text-primary: #ffffff;
   --color-background-primary: #121212;
   --color-background-raised: #242424;
 }
@@ -54,6 +55,7 @@
   --color-rose: #e11d48;
   --color-primary: #7c3aed;
   --color-secondary: #e11d48;
+  --color-text-primary: #121212;
   --color-background-primary: #ffffff;
   --color-background-raised: #242424;
 }
@@ -62,4 +64,3 @@
 @custom-media --breakpoint-md (min-width: 768px);
 @custom-media --breakpoint-lg (min-width: 1024px);
 @custom-media --breakpoint-xl (min-width: 1280px);
-
